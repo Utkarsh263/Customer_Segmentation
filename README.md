@@ -1,7 +1,7 @@
 # KMeans Customer Segmentation – Mall Customers
 
 ## Problem Overview
-Customer segmentation is an unsupervised learning task aimed at grouping customers based on similar purchasing behavior. This project uses KMeans clustering to segment mall customers using their annual income and spending score, helping businesses understand customer types and improve marketing strategies.
+Customer segmentation is an unsupervised learning task aimed at grouping customers based on similar purchasing behavior. This project uses KMeans clustering to segment mall customers using their annual income and spending scores, helping businesses understand customer types and improve marketing strategies.
 
 ## Dataset Description
 The dataset contains customer information collected from a shopping mall. Only behavior-related features are used for clustering.
